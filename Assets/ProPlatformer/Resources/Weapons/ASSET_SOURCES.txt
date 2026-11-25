@@ -1,0 +1,14 @@
+CC0 asset sources used by the game
+
+Knife and weapon atlas:
+https://opengameart.org/content/16x16-weapon-sprites-free
+License: CC0
+
+Eight-frame sword slash animation and swing sound:
+https://skulitom.itch.io/sword-slash-pixel-fx
+License: CC0 1.0
+Provenance note: The creator discloses AI-assisted recipe design; the frames were drawn by the Pixelbolt algorithm, not an image-generation model. See the included LICENSE.txt and README.txt.
+
+Additional static slash atlas (not currently used by the animation):
+https://opengameart.org/content/pixel-art-sword-slash-effect
+License: CC0
